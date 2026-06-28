@@ -6,3 +6,5 @@
 16 June 2026. Nature](https://www.nature.com/articles/d41586-026-01881-2)
 
 [Why evaluating the impact of AI needs to start now - COMMENT 21 July 2025. Nature](https://www.nature.com/articles/d41586-025-02266-7)
+
+[Measurement noise limits the advantage of nonlinear models over linear models in biomedical prediction. PREPRINT arxiv ](https://arxiv.org/html/2606.18420v1)
